@@ -9,7 +9,7 @@ This project explores the use of machine learning to predict the likelihood of A
 - **Autism dataset.csv** – Raw dataset containing features and target labels.
 - **Autism_dataset_cleaned.csv** – Preprocessed dataset after cleaning and imputation.
 - **Autism_dataset.sql** – SQL representation of the dataset for database operations.
-- **Data Preprocessing.ipynb** – Notebook detailing cleaning, imputation, and feature engineering steps.
+- **Data Preprocessing.ipynb** – Notebook detailing cleaning, imputation, and transformation steps.
 - **Data Visualization(EDA).ipynb** – Notebook for visual exploration and variable relationship analysis.
 - **Model Building.ipynb** – Machine learning pipeline for training and evaluating models.
 
